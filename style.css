@@ -2,6 +2,11 @@ html {
     font-size: 16px;
 }
 
+a {
+    list-style: none;
+    text-decoration: none;
+}
+
 header {
     background: #E89005;
     padding: 1%; 
